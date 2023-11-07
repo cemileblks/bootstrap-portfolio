@@ -39,7 +39,7 @@ h2 {
 
 .myskill img {
     max-width: 12rem;
-    border: solid  #FF914D 5px;
+    border: solid #FF914D 5px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
@@ -51,16 +51,16 @@ h2 {
 
 /* About me section */
 
-  .mypic {
+.mypic {
     border: solid;
     box-shadow: 0px 5px 5px 0px #585858;
-  }
+}
 
-  .myinfo {
+.myinfo {
     text-decoration: none;
     font-weight: 600;
     color: #171716;
-  }
+}
 
 /* Footer */
 
@@ -71,12 +71,12 @@ footer {
 
 .social a {
     font-size: 2rem;
-    width: 60px; 
+    width: 60px;
     height: 60px;
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 50%; 
+    border-radius: 50%;
     background-color: #FF914D;
     color: #FFDE59;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -90,4 +90,3 @@ footer {
 footer div p {
     font-size: 14px;
 }
-
